@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+lamphan/org/micardflutter/BuildConfig.java
+ lamphan.org.micardflutter.BuildConfig
+lamphan/org/micardflutter/MainActivity.java
+ lamphan.org.micardflutter.MainActivity

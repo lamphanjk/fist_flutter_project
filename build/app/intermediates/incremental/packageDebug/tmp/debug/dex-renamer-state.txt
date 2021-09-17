@@ -1,0 +1,4 @@
+#Mon Sep 13 14:03:49 ICT 2021
+base.0=/Users/lamphan/Documents/First_flutter_project/Iamrich/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
